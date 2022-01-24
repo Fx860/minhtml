@@ -35,6 +35,7 @@ li a {
 
 .kod {
   text-align:right;
+  float: right;
   font-size: 30px ;
   position: absolute;
   bottom: 10px;
