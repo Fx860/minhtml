@@ -27,10 +27,7 @@ li a {
   text-decoration: none;
 
 }
-li a:hover(.active) {
-  background-color:DodgerBlue
 
-}
 
 .hem {
   background-color: #04AA6D;
