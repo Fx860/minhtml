@@ -51,7 +51,7 @@ p {
 
 
 
-.min {
+.min { 
   color: rgb(255, 255, 255);
   text-shadow: 4px 4px 8px black, 0 0 25px blue, 0 0 15px darkblue;
 }
@@ -63,7 +63,7 @@ select {
   padding: 16px 20px;
   border:none; 
   border-radius: 14px;
-  background-color:lightgrey
+  background-color:lightgrey ,
   
 }
 
@@ -91,7 +91,9 @@ select {
     display:block;
     font-weight:bold;
     margin:5px 0;
-  }
+  } 
+  
+
   
 
 
