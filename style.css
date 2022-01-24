@@ -39,8 +39,6 @@ li a {
 }
 
 
-
-
 .hackad {
 text-align:right;
   position:absolute ;
@@ -48,6 +46,8 @@ text-align:right;
   bottom: 10px;
   right: 10px;
 }
+
+
 .kod {
   text-align:start;
   font-size: 30px ;
