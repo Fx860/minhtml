@@ -1,5 +1,4 @@
-
- /* H1-H6 edit*/
+/* H1-H6 edit*/
 h1 {
   background-color: rgb(119,136,153);
   color: white;
@@ -37,11 +36,42 @@ li a:hover(.active) {
   background-color: #04AA6D;
 }
 
-
-h2 {
-  font-size: 40px;
-  text-align: middle;
+.kod {
+  
+  font-size: 30px ;
+  position: relative;
+  bottom: 5px;
+  right: 5px;
 }
+
+
+
+
+h2 div  { 
+  
+  font-size: 40px;
+  text-align: match-parent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+.hackad {
+
+  font-size: .10px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+/* Container holding the image and the text */
+div h2 .container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 
 
 p {
@@ -85,7 +115,9 @@ select {
    form {
     margin:10px; 
     padding: 0 5px;
-    
+    text-align:center
+   
+   
   }
   label {
     display:block;
@@ -93,6 +125,7 @@ select {
     margin:5px 0;
   } 
   
+
 
   
 
