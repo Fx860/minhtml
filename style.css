@@ -35,16 +35,15 @@ li a {
 
 .kod {
   text-align:right;
-  float: right;
   font-size: 30px ;
-  position: absolute;
-  bottom: 10px;
+  position: relative;
+  bottom: 20px;
   right: 10px;
 }
 
 
 .hackad {
-  float: right;
+text-align:right;
   position: absolute;
   font-size: 10px ;
   bottom: 10px;
