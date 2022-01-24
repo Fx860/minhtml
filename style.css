@@ -34,7 +34,7 @@ li a {
 }
 
 .kod {
-  text-align: right;
+  text-align:right;
   font-size: 30px ;
   position: absolute;
   bottom: 10px;
@@ -44,7 +44,7 @@ li a {
 
 .hackad {
   text-align:right;
-  position: absolute;
+  position: fixed;
   font-size: 10px ;
   bottom: 10px;
   right: 10px;
