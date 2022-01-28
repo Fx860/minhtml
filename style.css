@@ -34,8 +34,37 @@ li a {
 }
 
 
-.hem {
-  background-color: #04AA6D;
+.navbar {
+  background-color: slategrey;
+  border: 50px;
+
+}
+
+.navbar ul {
+  overflow: auto;
+
+}
+
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 12px 14px;
+
+}
+
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.navbar li a:hover {
+  color: greenyellow;
+  text-decoration: underline;
+  text-transform: none;
+  font-size: 16px;
+
 }
 
 
